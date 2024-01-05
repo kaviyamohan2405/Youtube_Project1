@@ -3,9 +3,10 @@
 This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and enables users to search for channel details and join tables to view data in the Streamlit app.
 
 NAME : Kaviya M
+
 BATCH: DW73DW74
+
 DOMAIN : DATA SCIENCE
-LanGuage & Tool used: Python mongoDB pandas mysql
 
 # SKILLS TAKEAWAY FROM THIS PROJECT
 -> Python scripting -> Data Collection -> MongoDB -> SQL -> Streamlit -> API integration -> Data Management
