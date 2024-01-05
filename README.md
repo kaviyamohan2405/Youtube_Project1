@@ -22,15 +22,20 @@ DOMAIN : DATA SCIENCE
 **Process Flow**
 
 Obtain YouTube API credentials: Visit the Google Cloud Console.
+
 Create a new project or select an existing project.
+
 Enable the YouTube Data API v3 for your project.
+
 Create API credentials for youtube API v3.
 
 **ETL Process**
 
 Extracting Data from youtube API.
+
 Transforming data into the required format.
-Loading Data into MYSQL
+
+Loading Data into MYSQL.
 
 
 
